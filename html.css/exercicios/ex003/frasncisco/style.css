@@ -1,0 +1,7 @@
+html{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    background: linear-gradient(#1B75AC, #E5C6CB, #F5CAAB, #9B675D, #64362A, #3E391E);
+font-family: Arial, Helvetica, sans-serif;
+}
