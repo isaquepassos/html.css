@@ -1,0 +1,18 @@
+
+@charset"UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+        
+body{
+   background-color: rgb(120, 171, 219);
+   font-family: Arial, Helvetica, sans-serif;
+    }
+h1{
+    color: rgb(132, 132, 192);
+    background-image: linear-gradient(to right,darkblue, rgb(120, 171, 219));
+    border-radius: 15px;
+    padding: 7px;
+    font-family: 'Caveat', cursive;
+    }
+p{
+    text-align: justify;
+    }
